@@ -1,0 +1,126 @@
+#-------------------------------
+# Site Settings
+
+title: OctoFi
+logo: #'/images/logo.png'
+description: Crypto cashbacks for DeFi and NFT
+
+menu__settings:
+  menu__items:
+    - title: 'About'
+      submenu:
+      - url: '/dyor/'
+        title: 'Introduction'
+      - url: '/manifesto/'
+        title: 'Manifesto'
+      - url: '/partners/'
+        title: 'Partners'
+    - title: 'Support'
+      submenu:
+      - external_url: 'https://t.me/OctoFi'
+        title: 'Telegram'
+      - external_url: 'https://github.com/octofi'
+        title: 'GitHub'
+      - external_url: 'https://den.octo.fi'
+        title: 'Forums'
+    - title: 'Tech'
+      submenu:
+      - url: '/changelog/'
+        title: 'Changelog'
+      - url: '/roadmap/'
+        title: 'Roadmap'
+      - external_url: 'https://docs.octo.fi'
+        title: 'Docs'
+    - title: 'Blog'
+      url: '/blog/'
+# Call to action button
+cta__button__text: Download
+
+# Add global cover image (This field adds a background to the top and bottom of the site.)
+cover__image: '/images/37.jpg'
+
+
+#-------------------------------
+# Author Settings
+
+author:
+  name: Dr. Octavius
+  title: Crypto cashbacks for DeFi and NFT
+  bio: OctoFi gives you cash back when you transact with trusted DeFi and NFT marketplaces using our <span class="text-span"><a href="/download">wallet</a></span> or <span class="text-span"><a href="https://app.octo.fi">platform</a></span>.
+  image: '/images/01_feels.jpg'
+  avatar: '/images/avatar.jpg'
+  button__text: Download Now
+
+
+#-------------------------------
+# Projects Settings
+
+projects__settings:
+  projects__title: Referral <span class="text-span">partners</span> # Add a 'text-span' class to highlight text.
+  projects__description: Transact with any of our partners using our <span class="text-span"><a href="/download">wallet</a></span> or <span class="text-span"><a href="//app.octo.fi" target="_blank">platform</a></span> and we get paid commission. We then pass through 40% to you and 60% to our <span class="text-span"><a href="/token">token</a></span> holders.
+
+
+#-------------------------------
+# Testimonials Section
+
+testimonial__title: Team <span class="text-span">members</span> # Add a 'text-span' class to highlight text.
+
+
+testimonial-items:
+  - name: "Dr. Octavius"
+    image: "/images/avatar.jpg"
+    designation : "Co-Founder"
+    content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
+
+  - name: "Dr. Octavius"
+    image: "/images/avatar.jpg"
+    designation : "Co-Founder"
+    content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
+
+  - name: "Dr. Octavius"
+    image: "/images/avatar.jpg"
+    designation : "Co-Founder"
+    content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
+
+  - name: "Dr. Octavius"
+    image: "/images/avatar.jpg"
+    designation : "Co-Founder"
+    content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
+
+
+#-------------------------------
+# Blog Section
+
+blog__settings:
+  blog__title: Recent <span class="text-span">posts</span> # Add a 'text-span' class to highlight text.
+  blog__description:
+
+
+#-------------------------------
+# Newsletter Settings
+mailchimp__settings:
+  mailchimp__title: <span class="text-span">Free Crypto.</span> Octomatically. # Add your title
+  mailchimp__text: # Add descriptions to the form by wrapping the text in single quotes. If you want to use more than one sentence, be sure to separate them with a comma.
+  mailchimp__identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+  mailchimp__button__text: Download Now # Add your button text
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: # add your shortname for Disqus Comment. For example anvodstudio-demo
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Footer Settings
+# Social Links
+# Example of adding a new link to the footer - {icon: "ion-logo-facebook", link: "https://facebook.com"}
+# Other icons can be found at https://ionicons.com/v4/
+social:
+- {icon: "ion-logo-twitter", link: "https://twitter.com/octofinance"}
+- {icon: "ion-logo-github", link: "https://github.com/octofi"}
+- {icon: "ion-logo-youtube", link: "https://www.youtube.com/channel/UCQ8TelmjLpFKQAsZCXIs5Tw"}
