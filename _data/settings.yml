@@ -9,11 +9,11 @@ menu__settings:
   menu__items:
     - title: 'About'
       submenu:
-      - url: '/dyor/'
+      - url: '/dyor'
         title: 'Introduction'
-      - url: '/manifesto/'
+      - url: '/manifesto'
         title: 'Manifesto'
-      - url: '/partners/'
+      - url: '/partners'
         title: 'Partners'
     - title: 'Support'
       submenu:
@@ -25,14 +25,14 @@ menu__settings:
         title: 'Forums'
     - title: 'Tech'
       submenu:
-      - url: '/changelog/'
+      - url: '/changelog'
         title: 'Changelog'
-      - url: '/roadmap/'
+      - url: '/roadmap'
         title: 'Roadmap'
       - external_url: 'https://docs.octo.fi'
         title: 'Docs'
     - title: 'Blog'
-      url: '/blog/'
+      url: '/blog'
 # Call to action button
 cta__button__text: Download
 
