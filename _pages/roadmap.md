@@ -4,8 +4,6 @@ title: Development Roadmap
 image:
 ---
 
-***
-
 ### 🚧 IN PROGRESS Q1 \#Marching 2021
 
 - [ ] Launchpad (Decentralized VC)

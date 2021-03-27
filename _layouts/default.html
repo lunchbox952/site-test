@@ -26,9 +26,10 @@
   <!-- end content -->
 
   {% include contact-form.html %}
-
+  
+  {% unless page.url contains '/download' %}
   {% include section-subscribe.html %}
-
+  {% endunless %}
   <div class="top" title="Top"><i class="ion ion-ios-arrow-up"></i></div>
 
   {% include footer.html %}

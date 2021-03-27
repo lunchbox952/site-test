@@ -3,9 +3,11 @@ layout: default
 ---
 
 <div class="container">
+	{% unless page.url contains '/download' %}
   <div class="page-head">
     <h1 class="page-title">{{ page.title }}</h1>
   </div>
+  {% endunless %}
 </div>
 
 {% if page.image %}

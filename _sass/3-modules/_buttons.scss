@@ -47,6 +47,30 @@
     font-size: 15px;
     padding: 16px 24px;
   }
+  
+  &--telegram {
+	position: relative;
+	z-index: 1;
+	display: inline-flex;
+	justify-content: center;
+	line-height: 1;
+	font-weight: 800;
+	border-radius: 30px;
+	white-space: nowrap;
+	cursor: pointer;
+	overflow: hidden;
+	transition: all .25s ease;
+    font-size: 12px;
+    color: $blue-gray;
+    padding: 12px 20px;
+    background: none;
+    border: 2px solid $blue-gray;
+    
+    &:hover {
+      border: 2px solid $primary-color;
+      color: $primary-color;
+    }
+  }
 
   &--middle {
     min-width: 200px;

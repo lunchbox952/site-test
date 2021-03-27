@@ -75,24 +75,19 @@
     justify-content: revert;
     align-items: center;
     font-size: 14px;
-    text-transform: uppercase;
     line-height: 1;
     font-weight: 800;
-    padding: 4px 12px;
+    padding: 8px 12px;
     border-radius: 30px;
-    border: 1px solid $primary-color;
-    color: $primary-color;
+    border: 2px solid $blue-gray;
+    color: $blue-gray;
     outline: none;
     cursor: pointer;
     transition: all 0.35s;
 
     &:hover {
-      background-color: rgba($primary-color, 0.08);
-
-      .circle-bg {
-        transition: all .2s cubic-bezier(.215,.61,.355,1);
-        transform: scale(.94);
-      }
+      border: 2px solid $primary-color;
+      color: $primary-color;
     }
 
     .circle-bg {
@@ -104,12 +99,12 @@
       margin-right: 8px;
       border-radius: 50%;
       will-change: transform;
-      background: $primary-color;
+      background: $blue-gray;
       transition: all .2s cubic-bezier(.215, .61, .355, 1);
     }
 
     .button-arrow {
-      color: $white;
+      color: $blue-gray;
     }
 
     @media only screen and (max-width: $desktop) {

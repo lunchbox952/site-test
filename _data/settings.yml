@@ -8,33 +8,29 @@ description: Crypto cashbacks for DeFi and NFT
 menu__settings:
   menu__items:
     - title: 'About'
+      url: '/dyor'
+    - title: 'Project'
       submenu:
-      - url: '/dyor'
-        title: 'Introduction'
       - url: '/manifesto'
         title: 'Manifesto'
-      - url: '/partners'
-        title: 'Partners'
-    - title: 'Support'
-      submenu:
-      - external_url: 'https://t.me/OctoFi'
-        title: 'Telegram'
-      - external_url: 'https://github.com/octofi'
-        title: 'GitHub'
-      - external_url: 'https://den.octo.fi'
-        title: 'Forums'
-    - title: 'Tech'
-      submenu:
-      - url: '/changelog'
-        title: 'Changelog'
       - url: '/roadmap'
         title: 'Roadmap'
-      - external_url: 'https://docs.octo.fi'
-        title: 'Docs'
+      - url: '/changelog'
+        title: 'Changes'
+      - external_url: 'https://github.com/octofi'
+        title: 'GitHub'
+    - title: 'Support'
+      submenu:
+      - url: '/dyor'
+        title: 'Start Here'
+      - external_url: 'https://t.me/OctoFi'
+        title: 'Telegram'
+      - external_url: 'https://den.octo.fi'
+        title: 'Forums'
     - title: 'Blog'
       url: '/blog'
 # Call to action button
-cta__button__text: Download
+cta__button__text: Get Started
 
 # Add global cover image (This field adds a background to the top and bottom of the site.)
 cover__image: '/images/37.jpg'
@@ -46,10 +42,10 @@ cover__image: '/images/37.jpg'
 author:
   name: Dr. Octavius
   title: Crypto cashbacks for DeFi and NFT
-  bio: OctoFi gives you cash back when you transact with trusted DeFi and NFT marketplaces using our <span class="text-span"><a href="/download">wallet</a></span> or <span class="text-span"><a href="https://app.octo.fi">platform</a></span>.
+  bio: OctoFi gives you cash back when you transact with trusted DeFi and NFT marketplaces, through our <span class="text-span post__content"><a href="/download">wallet</a></span> or <span class="text-span post__content"><a href="https://app.octo.fi">dapp</a></span>.
   image: '/images/01_feels.jpg'
   avatar: '/images/avatar.jpg'
-  button__text: Download Now
+  button__text: Get Started
 
 
 #-------------------------------
@@ -57,7 +53,7 @@ author:
 
 projects__settings:
   projects__title: Referral <span class="text-span">partners</span> # Add a 'text-span' class to highlight text.
-  projects__description: Transact with any of our partners using our <span class="text-span"><a href="/download">wallet</a></span> or <span class="text-span"><a href="//app.octo.fi" target="_blank">platform</a></span> and we get paid commission. We then pass through 40% to you and 60% to our <span class="text-span"><a href="/token">token</a></span> holders.
+  projects__description: Transact with any of our partners using our <span class="text-span post__content"><a href="/download">wallet</a></span> or <span class="text-span post__content"><a href="//app.octo.fi" target="_blank">dapp</a></span> and we get paid a commission. We then pass through 40% to you and 60% to <span class="text-span post__content"><a href="/dyor#token">token</a></span> holders.
 
 
 #-------------------------------
@@ -102,7 +98,7 @@ mailchimp__settings:
   mailchimp__title: <span class="text-span">Free Crypto.</span> Octomatically. # Add your title
   mailchimp__text: # Add descriptions to the form by wrapping the text in single quotes. If you want to use more than one sentence, be sure to separate them with a comma.
   mailchimp__identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
-  mailchimp__button__text: Download Now # Add your button text
+  mailchimp__button__text: Get Started # Add your button text
 
 
 #-------------------------------

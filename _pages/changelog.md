@@ -4,8 +4,6 @@ title: Changelog
 image:
 ---
 
-***
-
 ## 03.0.0 (March 03, 2021)
 ### OctoFi DApp ([octo.fi](https://octo.fi))
 - Removed derivatives trading as API Errors been permanent with 3rd party

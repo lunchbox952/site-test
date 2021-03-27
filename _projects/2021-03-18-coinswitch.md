@@ -1,8 +1,9 @@
 ---
-title: City Lights
-date: 2021-01-25 07:30:35 +0300
-subtitle: Photography
-image: '/images/project-6.jpg'
+title: CoinSwitch
+date: 2021-03-25 08:01:35 +0300
+subtitle: Instant exchange
+image: '/images/partners/coinswitch.jpeg'
+external_url: https://coinswitch.co
 ---
 
 In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem.
@@ -11,7 +12,7 @@ In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tar
   <div class="gallery">
     <img src="/images/project-5.jpg" alt="Project">
     <img src="/images/project-8.jpg" alt="Project">
-    <img src="/images/project-7.jpg" alt="Project">
+    <img src="/images/project-6.jpg" alt="Project">
   </div>
   <em>Projects / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
