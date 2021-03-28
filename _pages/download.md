@@ -4,7 +4,7 @@ title: Get Started
 image: 
 ---
 
-<div style="text-align:center; margin-top: 36px;"><img src="/images/platform.png"></div>
+<div style="text-align:center; margin-top: 36px;"><img src="/images/octofi-dapp.png"></div>
 
 <div style="text-align:center"><a class="button button--middle" style="margin-top: 28px;" href="https://app.octo.fi" target="_blank">Launch Dapp</a></div>
 

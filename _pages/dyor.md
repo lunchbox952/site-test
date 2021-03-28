@@ -8,8 +8,8 @@ image:
 
 Our cashback mechanism is built into: 
 
-1. **<span class="text-span">OctoFi Wallet:</span>** a fork of MetaMask with lower built-in swap fees, support for various networks by default, essential NFT features, and removal of all user tracking.
-2. **<span class="text-span">OctoFi Dapp:</span>** an all-in-one decentralized application serving up direct access to a broad range of DeFi and NFT marketplaces from one convenient location.
+1. **<span class="text-span">OctoFi Dapp:</span>** an all-in-one decentralized application serving up direct access to a broad range of DeFi and NFT marketplaces from one convenient location.
+2. **<span class="text-span">OctoFi Wallet:</span>** a fork of MetaMask with lower built-in swap fees, support for various networks by default, essential NFT features, and removal of all user tracking.
 3. **<span class="text-span">OctoFi Token:</span>** an ERC-20 on the Etherum network, OCTO is used to govern the project, unlock exclusive features, and earn your share of revenue.
 
 ## 🤔 How does it work?
@@ -34,8 +34,8 @@ But we're crypto native and with over $1 trillion in value settled on the Ethere
 
 We endeavour to accelerate growth for our referral partners while embracing a multi-chain future, so it's fair to say every effort is being made to expand [our partner network](/partners) to ensure our products are useful NOW, and well into the future...
 
-- **Wallet:** simply install it and reap the rewards when using it on our dapp or one of our partner sites (eg. Get 1% cashback when you purchase any NFT on OpenSea).
 - **Dapp:** bookmark or install as a progressive web app (PWA) even if you prefer to use another wallet (eg. We direct 2.5% cashback from OpenSea to token holders).
+- **Wallet:** simply install it and reap the rewards when using it on our dapp or one of our partner sites (eg. Get 1% cashback when you purchase any NFT on OpenSea).
 - **Token:** purchase the OCTO token to gain access to exclusive features, participate in governance, and earn your share of all revenue from the wallet and dapp.
 
 As interoperability and composability shape up to be defining narratives within our industry, many leading projects are supercharging their growth by embracing the affiliate model to establish partner programs -- ecommerce giants like Amazon certainly did; so why wouldn't the *future blue chips of blockchain?*
@@ -63,21 +63,17 @@ Furthermore, in March 2021 a council of eight members were elected to steward Oc
 | Darnboo | Software Development | [@BizarroSephiroth](https://t.me/BizarroSephiroth) | [@darnboo](https://twitter.com/darnboo) |
 | MA | Visual Arts & Design | [@M_A_OctoWave](https://t.me/M_A_OctoWave) | [@MaOcto](https://twitter.com/MaOcto) |
 
-⚠️ WARNING: No OctoFi team member will ever DM your first, or request access to your funds, or that you share private keys or seed phrases. Anyone claiming such a thing is an impersonator and should be reported immediately.
+⚠️ WARNING: No OctoFi team member will ever DM you first, or request access to your funds, or that you share private keys or seed phrases. Anyone claiming such a thing is an impersonator and should be reported immediately.
  
 ## 🕵️ Where can I get more info?
 
-See below for more information about our wallet, dapp, and token.
+See below for more information about our dapp, wallet, and token.
 
-### 1. Wallet ([<span class="text-span">/download</span>](/download))
-
-[Download our wallet](/download) and start transacting with our [referral partners](/partners) to earn cashbacks.
-
-### 2. Dapp ([<span class="text-span">app.octo.fi</span>](https://app.octo.fi))
+### 1. Dapp ([<span class="text-span">app.octo.fi</span>](https://app.octo.fi))
 
 OctoFi's core value proposition is giving you cash back when you transact with the most trusted marketplaces in DeFi, NFT, and beyond. Our dapp is our flagship product and provides a user friendly entry point for newcomers to get familiar with crypto.
 
-![](/images/platform.png)
+![](/images/octofi-dapp.png)
 
 OctoFi as a platform is ever changing and indicators shown in the drop down menus are either green for "live in production" or yellow for "work in progress." Here's a brief overview of what you'll find inside:
 
@@ -105,6 +101,10 @@ We run entirely on a [static site](https://www.netlify.com/blog/2016/05/18/9-rea
 <div id="token"></div>
 
 Revenue is derived from native platform fees, partner referral commissions, and project capital deployments. Please note fee structure is subject to change. Refer to [OIP-17](https://den.octo.fi/d/162-oip-17-platform-fees-distribution) for more information.
+
+### 2. Wallet ([<span class="text-span">/download</span>](/download))
+
+[Download our wallet](/download) and start transacting with our [referral partners](/partners) to earn cashbacks.
 
 Now it's time to Do Your Octo Research \#DYOR
 
